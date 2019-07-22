@@ -1,0 +1,11 @@
+All images are sourced from Wikimedia Commons.
+
+large_rgb8.png
+    Public Domain
+    https://commons.wikimedia.org/wiki/File:Mona_Lisa.PNG
+    removed pHYs and bKGD chunks
+    8-bit truecolor
+
+large_rgba8.png, medium_rgba8.png, small_rgba8.png
+medium_rgb8.png, small_rgb8.png
+    cropped/8-bit truecolor with alpha versions of large_rgb8.png
